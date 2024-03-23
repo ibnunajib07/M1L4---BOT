@@ -29,4 +29,4 @@ async def on_message(message):
     else:
         await message.channel.send("Maaf command tidak valid")
 
-client.run("MTE5NjgwNTQ0NDA4NjI3MjA0MA.Gj9oQk.9QNGmPadz4Ha6l8KvaVKqKRctnlvwKI2X-y_tA")
+client.run("TOKEN DISINI!")
